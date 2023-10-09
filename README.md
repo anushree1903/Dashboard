@@ -1,6 +1,6 @@
 # React + Vite
 
-Designed the admin dashboard using Vite, Tailwind and Tremor Components
+Designed a fully responsive Admin dashboard using Vite, Tailwind and Tremor Components
 
 Screenshots
 
